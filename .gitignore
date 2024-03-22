@@ -10,10 +10,10 @@ composer.lock
 /apss/cache
 /apps/cache/*
 # Server
-#/server/ssl
-#/server/ssl/*
-#/server/snippets
-#/server/snippets/*
+/server/ssl
+/server/ssl/*
+/server/snippets
+/server/snippets/*
 .well-known
 /.well-known/*
 # Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
