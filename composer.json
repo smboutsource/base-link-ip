@@ -1,0 +1,17 @@
+{
+	"description": "Link IP Form.",
+	"name": "smbitdev/link-ip-redirector",
+	"type": "webapp",
+	"homepage": "https://hokibagus.com",
+	"license": "MIT",
+	"support": {
+		"website": "https://hokibagus.com"
+	},
+	"require": {
+		"php": ">=5.3.7",
+		"mongodb/mongodb": "*",
+		"imzers/imzers-utils": "*",
+		"kreait/firebase-php": "^6.0",
+		"aws/aws-sdk-php": "^3.150"
+	}
+}

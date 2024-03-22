@@ -1,0 +1,5 @@
+Disallow: /auth
+Disallow: /auth/*
+Disallow: /edit
+Disallow: /edit/*
+Disallow: /dashboard

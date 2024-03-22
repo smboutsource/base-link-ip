@@ -1,0 +1,49 @@
+{
+	"auth"			: {
+		"local"				: {
+			"host"				: "https://auth.apismb.com",
+			"paths"				: {
+				"login"				: "auth/login",
+				"profile"			: "account/profile"
+			},
+			"apps"			: {
+				"client_id"			: "landingpage",
+				"client_secret"		: "a35f4500c477f15652db6d74e994886f"
+			}
+		},
+		"dev"				: {
+			"host"				: "https://auth.apismb.com",
+			"paths"				: {
+				"login"				: "auth/login",
+				"profile"			: "account/profile"
+			},
+			"apps"			: {
+				"client_id"			: "landingpage",
+				"client_secret"		: "a35f4500c477f15652db6d74e994886f"
+			}
+		},
+		"sandbox"			: {
+			"host"				: "https://auth.apismb.com",
+			"paths"				: {
+				"login"				: "auth/login",
+				"profile"			: "account/profile"
+			},
+			"apps"			: {
+				"client_id"			: "landingpage",
+				"client_secret"		: "a35f4500c477f15652db6d74e994886f"
+			}
+		},
+		"prod"				: {
+			"host"				: "https://auth.apismb.com",
+			"paths"				: {
+				"login"				: "auth/login",
+				"profile"			: "account/profile"
+			},
+			"apps"			: {
+				"client_id"			: "landingpage",
+				"client_secret"		: "a35f4500c477f15652db6d74e994886f"
+			}
+		}
+	}
+}
+

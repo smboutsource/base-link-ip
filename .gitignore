@@ -1,0 +1,23 @@
+composer.phar
+/vendor/
+composer.lock
+# Codeigniter
+/apps/application/logs/*
+/apps/application/logs
+/apps/application/cache/*
+/apps/application/cache
+# Cache
+/apss/cache
+/apps/cache/*
+# Server
+/server/ssl
+/server/ssl/*
+/server/snippets
+/server/snippets/*
+.well-known
+/.well-known/*
+# Commit your application's lock file https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control
+# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
+# composer.lock
+/html/.well-known
+/html/.well-known/*
